@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">QuanLySach</string>
+    <string-array name="category">
+        <item>Sách giáo khoa</item>
+        <item>Sách thiếu nhi</item>
+        <item>Sách kinh tế</item>
+        <item>Sách lịch sử</item>
+        <item>Sách khoa học</item>
+    </string-array>
 </resources>

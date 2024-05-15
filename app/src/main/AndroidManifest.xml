@@ -12,6 +12,18 @@
         android:theme="@style/Theme.QuanLySach"
         tools:targetApi="31">
         <activity
+            android:name=".UD_History_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Add_History_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AddActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Update_Delete_Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
